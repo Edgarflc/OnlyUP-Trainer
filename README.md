@@ -35,6 +35,7 @@ This project is for speedrunners. The principle is simple. You can create checkp
 
 ## Author
 
+- [@Edgarflc](https://github.com/Edgarflc)
 - [@us3rT0m](https://www.github.com/us3rT0m)
 
 
