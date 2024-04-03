@@ -1,4 +1,12 @@
-# OnlyUP Trainer
+# THE TRAINER IS NOT COMPATIBLE WITH ONLY UP CRACKED VERSIONS (it's not compatible with the first version of the game, and most cracks happens to be the first version of the game)
+
+# THE TRAINER IS NOT COMPATIBLE ANYMORE WITH THE LATEST (and last) VERSION OF THE GAME (the one released Sept 6th 2023)
+
+##### ⚠️ **I am no longer responsible for the development or maintenance of this project.** ⚠️
+
+##### New official project is on [@Edgarflc](https://github.com/Edgarflc/OnlyUP-Trainer) repository
+
+# OnlyUP Trainer [DISCONTINUED]
 
 [![MIT License](https://img.shields.io/badge/License-MIT-green.svg)](./LICENSE.md) [![Github All Releases](https://img.shields.io/github/downloads/us3rT0m/OnlyUP-Trainer/total.svg)]()
 
